@@ -1,0 +1,19 @@
+{
+  "name": "ftl-kitty-bot-thumper",
+  "version": "1.0.0",
+  "description": "Development platform for a KittyBot, built on a Wild Thumper chassis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ftl-robots/ftl-kitty-bot-thumper.git"
+  },
+  "author": "ZQ Yeo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ftl-robots/ftl-kitty-bot-thumper/issues"
+  },
+  "homepage": "https://github.com/ftl-robots/ftl-kitty-bot-thumper#readme"
+}
